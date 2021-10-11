@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wellington.calor@gmail.com
+	name = Wellington Oliveira
