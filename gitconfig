@@ -51,4 +51,10 @@
   rebase = false
 [user]
 	email = wellington.calor@gmail.com
-	name = Wellington Oliveira
+	name = Wellington Calor
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
